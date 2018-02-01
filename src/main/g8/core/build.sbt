@@ -32,5 +32,6 @@ libraryDependencies ++= Seq(
 
 libraryDependencies ++= Seq(
   "org.tpolecat" %% "doobie-core",
+  "org.tpolecat" %% "doobie-hikari",
   "org.tpolecat" %% "doobie-h2"
 ).map(_ % DoobieVersion)
