@@ -2,7 +2,7 @@ val Http4sVersion = "0.18.0"
 val LogbackVersion = "1.2.3"
 val CirceVersion = "0.9.1"
 val JournalVersion = "3.0.19"
-val DoobieVersion = "0.5.0-RC1"
+val DoobieVersion = "0.5.0"
 val ScalaTestVersion = "3.0.5"
 val ScalaCheckVersion = "1.13.5"
 
